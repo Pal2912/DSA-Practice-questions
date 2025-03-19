@@ -1,7 +1,7 @@
 
 
 class Solution {
-    public int minSubArrayLen(int target, int[] nums) {
+    public int minSubArrayLen(int target, int[] nums) 
 
         int n = nums.length;
         boolean found = false;
